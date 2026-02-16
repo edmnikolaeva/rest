@@ -46,7 +46,7 @@ Includes:
 Context:
 - Streaming service feature enhancement
 
-Work-flow:
+Workflow:
 - Analysing stakeholder interviews  
 - Analysing & modelling requirements 
 - Modelling UML Sequence Diagram to support implementation  
