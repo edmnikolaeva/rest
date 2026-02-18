@@ -20,6 +20,10 @@ This repository demonstrates approaches to:
 
 ---
 
+- 👉[UML Sequence Diagram](https://github.com/edmnikolaeva/uml_diagrams/blob/main/uml_sequence.jpg)
+  
+---
+
 - 👉 for [XML](https://github.com/edmnikolaeva/xml)
 
 ---
