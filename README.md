@@ -1,5 +1,9 @@
 # REST API – System Analysis Examples
-This repository demonstrates approaches to REST API modeling, OpenAPI documentation, and development task preparation
+This repository demonstrates approaches to:
+- REST API modeling
+- OpenAPI documentation
+- Development task preparation
+- HTTP Requests & Responses using JSON data
 
 ---
 
@@ -11,7 +15,12 @@ This repository demonstrates approaches to REST API modeling, OpenAPI documentat
 
 ---
 
-- 👉 for [JSON](https://github.com/edmnikolaeva/json) & [XML](https://github.com/edmnikolaeva/xml)
+- 👉 [HTTP request](https://github.com/edmnikolaeva/json/blob/main/get_partners_request.json)
+- 👉 [HTTP response](https://github.com/edmnikolaeva/json/blob/main/get_partners_response.json)
+
+---
+
+- 👉 for [XML](https://github.com/edmnikolaeva/xml)
 
 ---
 
@@ -58,3 +67,11 @@ Workflow:
 - Modelling UML Sequence Diagram to support implementation  
 - Testing Existing API in Swagger  
 - Create Backend Development Ticket
+
+---
+
+### [HTTP request](https://github.com/edmnikolaeva/json/blob/main/get_partners_request.json) & [HTTP Response](https://github.com/edmnikolaeva/json/blob/main/get_partners_response.json)
+
+Context:
+- Application Online Store – [screen](https://github.com/edmnikolaeva/json/blob/main/screen.png) displaying store partners
+- The examples illustrate how API calls and responses are structured for this screen, including request structure, response formatting, and JSON data organization
