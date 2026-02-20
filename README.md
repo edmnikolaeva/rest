@@ -103,7 +103,7 @@ It includes examples of:
 
 ---
 
-### Related Artifacts
+### 🔎 Related Work
 
 - 👉 [JSON: HTTP Request & Response](https://github.com/edmnikolaeva/json)
 - 👉 [XML & SOAP](https://github.com/edmnikolaeva/xml)
